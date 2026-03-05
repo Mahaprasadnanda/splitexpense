@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create Axios Instance
 const api = axios.create({
-    baseURL: import.meta.env.VITE_API_URL || "http://localhost:8000",
+    baseURL: import.meta.env.VITE_API_URL || "https://splitexpense-8ie2.onrender.com",
 });
 
 // Request interceptor to attach Firebase ID Token

@@ -69,7 +69,7 @@ A modern MVP for splitting expenses with friends, designed with a premium, respo
    VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
    VITE_FIREBASE_APP_ID=your_app_id
    VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
-   VITE_API_URL=http://localhost:8080
+   VITE_API_URL=https://splitexpense-8ie2.onrender.com
    ```
 4. Run the Vite development server:
    ```bash
